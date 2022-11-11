@@ -1,4 +1,4 @@
-package week2.MT;
+package week2.MonTue;
 
 public class Problem1 {//문자배열 만들어 A-Z 저장 후 출력
     public static void main(String[] args) {
