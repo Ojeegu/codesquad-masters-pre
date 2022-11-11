@@ -1,4 +1,4 @@
-package week2.TF;
+package week2.ThuFri;
 
 public class Problem1 { //CarTest를 통해 싱글톤패턴 익히기
     public static void main(String[] args) {
